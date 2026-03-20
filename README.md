@@ -1,1 +1,2 @@
-# oaqjp-final-project-emb-ai
+# Final Project
+Emotion Detection system using Watson NLP and Flask.
